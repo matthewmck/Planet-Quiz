@@ -23,4 +23,4 @@ An interactive quiz that test’s your knowledge of the planets within our solar
 - Edge
 
 ## License
-[MIT](https://github.com/matthewmck/Todo-List/blob/master/LICENSE) © [Matthew McKee](https://www.linkedin.com/in/matthew-mckee-082b4385/)
+[MIT](https://github.com/matthewmck/Planet-Quiz/blob/master/LICENSE) © [Matthew McKee](https://www.linkedin.com/in/matthew-mckee-082b4385/)
