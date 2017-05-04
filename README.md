@@ -7,7 +7,7 @@ An interactive quiz that test’s your knowledge of the planets within our solar
 ![Enter Info](https://github.com/matthewmck/Planet-Quiz/blob/master/Screenshots/result.JPG)
 
 ## Demo
-[JSFiddle](https://jsfiddle.net/mattmck/0dd1cnth/)
+[JSFiddle](https://jsfiddle.net/mattmck/7qawfgnk/)
 
 ## Technologies
 - HTML5
