@@ -15,6 +15,7 @@ An interactive quiz that test’s your knowledge of the planets within our solar
 - JavaScript
 
 ## Components Used
+- [Photo - Marcelo Quinan](https://unsplash.com/photos/R3pUGn5YiTg)
 - [Google Fonts: Roboto](https://fonts.google.com/specimen/Roboto)
 
 ## Browser Support 
