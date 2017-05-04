@@ -1,7 +1,7 @@
 # Planet-Quiz
 An interactive quiz that test’s your knowledge of the planets within our solar system.
 
-## Screenshot
+## Screenshots
 ![Enter Info](https://github.com/matthewmck/Planet-Quiz/blob/master/Screenshots/splash.JPG)
 ![Enter Info](https://github.com/matthewmck/Planet-Quiz/blob/master/Screenshots/quiz.JPG)
 ![Enter Info](https://github.com/matthewmck/Planet-Quiz/blob/master/Screenshots/result.JPG)
